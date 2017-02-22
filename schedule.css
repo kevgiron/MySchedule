@@ -1,0 +1,40 @@
+td {
+    text-align: left;
+}
+th {
+    text-align: center;
+    height: 40px;
+    width: 400px;
+}
+td:hover{
+  background-color:rgba(161,183,185,1);
+}
+td{
+    width: 70px;
+    background-color:rgba(198,216,218,0.4);
+}
+tr.tenAM{
+  background-color:rgba(161,183,185,1);
+}
+tr.noon{
+  background-color:rgba(161,183,185,1);
+}
+tr.one{
+  background-color:rgba(161,183,185,1);
+}
+tr {
+    height: 60px;
+    width: 60px;
+}
+h1 {
+    text-decoration: underline;
+    font-weight: bold
+}
+body.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+table {background-color:rgba(198,216,218,0.4);}
+/* Color Palette adapted from: http://www.colourlovers.com/palette/669372/Sister_of_Night*/
